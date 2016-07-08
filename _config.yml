@@ -1,0 +1,14 @@
+layout_spectrum: 0.5584370985161513
+typography_spectrum: 0.5952437589876354
+color:
+  brandStrength: 0.1523782762233168
+  lightness: 0.47181170620024204
+  saturation: 0.6276108678430319
+  rhythmicContrast: 0.924636542564258
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: HDsite
